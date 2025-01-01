@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uo2E2yHAOqTwzJ+jZ5KBNG6q3gxgs+hZkpDXxqUZhEQ=",
+  "Source": "eShopEngine.API",
+  "BasePath": "_content/eShopEngine.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
